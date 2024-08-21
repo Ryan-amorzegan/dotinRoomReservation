@@ -99,3 +99,17 @@ we did our best to implement our approach with the requirements below.
 | Reserving the rooms                  | Accepting or Declining a Request      | Adding rooms to the list of the rooms      |
 | Checking the process of reservation  |                                       | Deleting a room from the list of the rooms |
 
+---
+# Useful Links
+
+- [OCP #1](https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/)
+- [OCP #2](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+- [OCP #3](https://medium.com/@ramdhas/2-open-closed-principle-ocp-solid-principle-cd12cbc6cb6e)
+- [OCP #4](https://berkay-ergun.medium.com/solid-open-closed-principle-ocp-bbf19df7b35c)
+- [OCP #5](https://codesai.com/posts/2021/01/notes-on-ocp)
+- [Liskov Principle #1](https://tusharghosh09006.medium.com/liskov-substitution-principle-lsp-744eceb29e8)
+- [Liskov Principle #2](https://medium.com/@sunny12jun/liskov-substitution-principle-lsp-9289babb0608)
+- [Liskov Principle #3](https://www.youtube.com/watch?v=dJQMqNOC4Pc)
+- [3-tier Architecture #1](https://medium.com/@shrestha.matina.20/what-is-the-3-tier-architecture-4520522e0720)
+- [3-tier Architecture #2](https://www.geeksforgeeks.org/three-tier-client-server-architecture-in-distributed-system/)
+- [3-tier Architecture #3](https://www.youtube.com/watch?v=r8JuAz9_V18)
