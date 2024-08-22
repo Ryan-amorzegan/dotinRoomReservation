@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/dotinRoomReservation.iml" filepath="$PROJECT_DIR$/.idea/dotinRoomReservation.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/RoomReservation.iml" filepath="$PROJECT_DIR$/RoomReservation.iml" />
->>>>>>> master
+      <module fileurl="file://$PROJECT_DIR$/Dotin.iml" filepath="$PROJECT_DIR$/Dotin.iml" />
     </modules>
   </component>
 </project>
