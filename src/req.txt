@@ -1,0 +1,4 @@
+Person class (client, admin , reservation manager)
+room class
+reservation class
+crud interface
